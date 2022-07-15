@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403427747103",
+    "firebase_url": "https://expensemanager-6a877-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "expensemanager-6a877",
+    "storage_bucket": "expensemanager-6a877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403427747103:android:828edd55987098bbc4bc2a",
+        "android_client_info": {
+          "package_name": "com.expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403427747103-3raljqiv2q38bmphd3fin8tml5qd74f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expense_tracker",
+            "certificate_hash": "aa9ffc57cd682703fdd8f3f09fd356a45ba621ff"
+          }
+        },
+        {
+          "client_id": "403427747103-q86r2mu19aptlbpnrsgi87pqa8b2snu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTEJWZwObATZ2U0QTH2_IPSFmdenuWyH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403427747103-q86r2mu19aptlbpnrsgi87pqa8b2snu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

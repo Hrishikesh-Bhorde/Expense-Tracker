@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="income">INCOME</string>
+    <string name="expense">EXPENSE</string>
+    <string name="ammount">AMMOUNT:</string>
+    <string name="type">TYPE:</string>
+    <string name="note">NOTE:</string>
+    <string name="cancle">Cancle</string>
+    <string name="save">Save</string>
+
+</resources>
