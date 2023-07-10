@@ -1,5 +1,8 @@
 # Expense-Trackker
 Android Application to keep a track on Expenses ..
+Uses Firebase to store the data. 
+
+Change the google-services.json file to your firebase datastore information.
 
 ![imageOne](./Screenshots/1.jpeg)
 ![imageTwo](./Screenshots/2.jpeg)
